@@ -8,12 +8,12 @@
 6. `git commit -m "<message>" - saves changes with a message`
 7. `git log`
 8. `git branch <branch name>`
-9. `git checkout <branch name>`
+9. `git checkout <branch name> - switches to another branch`
 10. `git merge <branch name>`
 11. `git branch -d <branch name>`
 
 # Code Contributors
 
 - Aneesh
-  contributer A (line 3)
-  Contributer B (line 6)
+- contributer A (line 3)
+- Contributer B (line 6 and line 9)
